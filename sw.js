@@ -1,4 +1,4 @@
-const CACHE='elevor360d-slow-cooker-v1-50';
+const CACHE='elevor360d-slow-cooker-v1-1-vegetables';
 const ASSETS=['./','./index.html','./app.js','./recipes.json','./icon.svg','./manifest.webmanifest','./advertising/adverts.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

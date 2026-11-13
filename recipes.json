@@ -34,14 +34,19 @@
       {
         "qty": "1 tsp",
         "item": "thyme"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, peeled and cut into 3cm chunks"
       }
     ],
     "steps": [
       "Brown beef in a frying pan then transfer to slow cooker.",
       "Add chopped vegetables stock tomato puree and thyme.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Cover and cook on LOW for 8 hours until beef is tender and piping hot."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "beef"
@@ -78,14 +83,23 @@
       {
         "qty": "1 tbsp",
         "item": "plain flour"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, peeled and cut into chunks"
+      },
+      {
+        "qty": "2",
+        "item": "carrots, thickly sliced"
       }
     ],
     "steps": [
       "Brown beef and onions then stir in flour.",
       "Transfer to cooker with sliced mushrooms stock and Worcestershire sauce.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Cook covered on LOW for 8 hours until beef is tender."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "beef"
@@ -430,14 +444,18 @@
       {
         "qty": "400g",
         "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "500g",
+        "item": "potatoes, peeled and thinly sliced for the hotpot topping"
       }
     ],
     "steps": [
-      "Brown beef and transfer to cooker with rinsed lentils and chopped vegetables.",
-      "Add stock and tomatoes and stir.",
-      "Cook covered LOW for 8 hours until lentils and beef are fully tender."
+      "Brown the beef in a pan, then transfer to the slow cooker with rinsed lentils, chopped carrots, onion, stock and tomatoes.",
+      "Arrange thinly sliced raw potatoes in overlapping layers on top, keeping the slices mostly above the liquid. Cover and cook on LOW for 8 hours or until beef, lentils and potatoes are tender.",
+      "Slow cookers do not brown the potato topping. For a golden crust, transfer to an ovenproof dish and grill briefly until golden; never put a non-ovenproof slow cooker pot under the grill."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "beef"
@@ -474,14 +492,19 @@
       {
         "qty": "1 tbsp",
         "item": "cornflour"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, cut into chunks"
       }
     ],
     "steps": [
       "Place chicken and chopped vegetables in cooker with stock and thyme.",
       "Cook covered LOW for 6 hours until chicken reaches at least 75°C.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Thicken with cornflour slurry on HIGH for 15 minutes if desired."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "chicken"
@@ -762,14 +785,23 @@
       {
         "qty": "1 tsp",
         "item": "thyme"
+      },
+      {
+        "qty": "400g",
+        "item": "potatoes, cut into chunks"
+      },
+      {
+        "qty": "2",
+        "item": "carrots, thickly sliced"
       }
     ],
     "steps": [
       "Place chicken chopped mushrooms onion stock mustard and thyme in cooker.",
       "Cook LOW for 6 hours until chicken reaches 75°C.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Taste and season before serving."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "chicken"
@@ -893,7 +925,7 @@
       "Add chopped vegetables stock and rosemary.",
       "Cook LOW for 8 hours until lamb and vegetables are tender."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. This recipe already includes both carrots and potatoes.",
     "tags": [
       "slow cooker",
       "lamb & pork"
@@ -1010,14 +1042,23 @@
       {
         "qty": "1 tsp",
         "item": "dried sage"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, cut into chunks"
+      },
+      {
+        "qty": "2",
+        "item": "carrots, thickly sliced"
       }
     ],
     "steps": [
       "Brown pork then transfer to cooker with sliced onion and stock.",
       "Cook LOW for 6 hours then add chopped apples and sage.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Cook 1 hour more until pork is tender and thoroughly cooked."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "lamb & pork"
@@ -1050,14 +1091,19 @@
       {
         "qty": "1",
         "item": "carrot"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, cut into chunks"
       }
     ],
     "steps": [
       "Brown sausages well in a frying pan then transfer to cooker.",
       "Add vegetables tomatoes and drained canned beans.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Cook LOW for 6 hours until sausages reach 75°C in centre."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "lamb & pork"
@@ -1226,14 +1272,19 @@
       {
         "qty": "500ml",
         "item": "vegetable stock"
+      },
+      {
+        "qty": "450g",
+        "item": "potatoes, cut into chunks"
       }
     ],
     "steps": [
       "Rinse lentils and place with diced vegetables tomatoes and stock in cooker.",
       "Cook LOW for 6 hours until lentils are completely tender.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Season and serve with crusty bread."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "vegetarian"
@@ -1438,14 +1489,19 @@
       {
         "qty": "1 tsp",
         "item": "thyme"
+      },
+      {
+        "qty": "400g",
+        "item": "potatoes, cut into chunks"
       }
     ],
     "steps": [
       "Rinse pearl barley and chop vegetables.",
       "Add to cooker with stock and thyme.",
+      "Add the prepared raw potatoes and carrots, where listed, with the other vegetables at the start; cut pieces evenly so they become tender during slow cooking.",
       "Cook LOW for 7 hours until barley is tender."
     ],
-    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker. Check potato and carrot pieces are fully tender before serving; add cooking time if needed.",
     "tags": [
       "slow cooker",
       "vegetarian"
