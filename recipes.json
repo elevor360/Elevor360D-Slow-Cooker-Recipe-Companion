@@ -1,0 +1,2106 @@
+[
+  {
+    "id": 1,
+    "title": "Beef and Root Vegetable Stew",
+    "category": "Beef",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "stewing beef"
+      },
+      {
+        "qty": "3",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "parsnips"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "500ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "tomato puree"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "thyme"
+      }
+    ],
+    "steps": [
+      "Brown beef in a frying pan then transfer to slow cooker.",
+      "Add chopped vegetables stock tomato puree and thyme.",
+      "Cover and cook on LOW for 8 hours until beef is tender and piping hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Beef and Mushroom Casserole",
+    "category": "Beef",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "stewing beef"
+      },
+      {
+        "qty": "250g",
+        "item": "mushrooms"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Worcestershire sauce"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "plain flour"
+      }
+    ],
+    "steps": [
+      "Brown beef and onions then stir in flour.",
+      "Transfer to cooker with sliced mushrooms stock and Worcestershire sauce.",
+      "Cook covered on LOW for 8 hours until beef is tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Slow Cooker Beef Chilli",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "beef mince"
+      },
+      {
+        "qty": "2 tins",
+        "item": "kidney beans drained"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "pepper"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "cumin"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Brown beef mince thoroughly in a frying pan and drain excess fat.",
+      "Put mince chopped vegetables drained canned beans tomatoes and spices into cooker.",
+      "Cook covered on LOW for 7 hours stirring once if convenient and ensure piping hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Beef Bolognese Sauce",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "beef mince"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "tomato puree"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "oregano"
+      }
+    ],
+    "steps": [
+      "Brown mince and soften onion in frying pan.",
+      "Transfer with grated carrots crushed garlic tomatoes puree and oregano.",
+      "Cook covered on LOW for 6 hours and serve with freshly cooked pasta."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pulled BBQ Beef",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 540,
+    "ingredients": [
+      {
+        "qty": "900g",
+        "item": "beef chuck"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "250ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "150ml",
+        "item": "BBQ sauce"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      }
+    ],
+    "steps": [
+      "Brown beef joint then place over sliced onion in cooker.",
+      "Add stock paprika and half the sauce.",
+      "Cook on LOW for 9 hours until beef shreds easily then mix with remaining sauce and heat through."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Beef and Barley Soup",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "450g",
+        "item": "stewing beef"
+      },
+      {
+        "qty": "120g",
+        "item": "pearl barley"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "celery sticks"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 litre",
+        "item": "beef stock"
+      }
+    ],
+    "steps": [
+      "Brown diced beef and transfer to cooker.",
+      "Add rinsed barley chopped vegetables and stock.",
+      "Cook covered on LOW for 8 hours until barley and beef are tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Beef and Sweet Potato Curry",
+    "category": "Beef",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "550g",
+        "item": "stewing beef"
+      },
+      {
+        "qty": "2",
+        "item": "sweet potatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "200ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "mild curry paste"
+      }
+    ],
+    "steps": [
+      "Brown beef then transfer to cooker.",
+      "Add cubed sweet potatoes onion tomatoes stock and curry paste.",
+      "Cook on LOW for 8 hours until beef and sweet potatoes are tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Beef and Onion Gravy",
+    "category": "Beef",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "650g",
+        "item": "braising steak"
+      },
+      {
+        "qty": "3",
+        "item": "onions"
+      },
+      {
+        "qty": "400ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Worcestershire sauce"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "cornflour"
+      }
+    ],
+    "steps": [
+      "Brown steak and sliced onions then place in cooker.",
+      "Pour over stock and Worcestershire sauce and cook LOW for 8 hours.",
+      "Mix cornflour with cold water stir into gravy and cook on HIGH 15 minutes until thickened."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Beef and Tomato Ragu",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "700g",
+        "item": "beef chuck"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1",
+        "item": "carrot"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "rosemary"
+      }
+    ],
+    "steps": [
+      "Brown beef and soften onion then transfer to cooker.",
+      "Add tomatoes garlic diced carrot and rosemary.",
+      "Cook LOW for 8 hours until beef pulls apart then shred and toss with pasta."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Beef and Lentil Hotpot",
+    "category": "Beef",
+    "servings": 6,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "450g",
+        "item": "stewing beef"
+      },
+      {
+        "qty": "150g",
+        "item": "green lentils"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "500ml",
+        "item": "beef stock"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      }
+    ],
+    "steps": [
+      "Brown beef and transfer to cooker with rinsed lentils and chopped vegetables.",
+      "Add stock and tomatoes and stir.",
+      "Cook covered LOW for 8 hours until lentils and beef are fully tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "beef"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chicken and Vegetable Casserole",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "boneless chicken thighs"
+      },
+      {
+        "qty": "3",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "leeks"
+      },
+      {
+        "qty": "400ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "thyme"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "cornflour"
+      }
+    ],
+    "steps": [
+      "Place chicken and chopped vegetables in cooker with stock and thyme.",
+      "Cook covered LOW for 6 hours until chicken reaches at least 75°C.",
+      "Thicken with cornflour slurry on HIGH for 15 minutes if desired."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Creamy Garlic Chicken",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "boneless chicken thighs"
+      },
+      {
+        "qty": "200g",
+        "item": "mushrooms"
+      },
+      {
+        "qty": "3",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "250ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "150g",
+        "item": "cream cheese"
+      }
+    ],
+    "steps": [
+      "Add chicken mushrooms garlic and stock to cooker.",
+      "Cook LOW for 5 hours until chicken reaches at least 75°C.",
+      "Stir in cream cheese and heat on HIGH for 15 minutes until smooth and hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Chicken Tikka-Style Curry",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "chicken thighs"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "150g",
+        "item": "natural yoghurt"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "mild curry paste"
+      }
+    ],
+    "steps": [
+      "Mix chicken onion tomatoes and curry paste in cooker.",
+      "Cook LOW for 6 hours until chicken reaches at least 75°C.",
+      "Turn off heat and stir in yoghurt gradually to avoid splitting."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Chicken and Sweetcorn Soup",
+    "category": "Chicken",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "550g",
+        "item": "chicken thighs"
+      },
+      {
+        "qty": "250g",
+        "item": "frozen sweetcorn"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1 litre",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried parsley"
+      }
+    ],
+    "steps": [
+      "Place chicken carrots and stock in cooker.",
+      "Cook LOW for 5 hours then remove chicken and shred with forks.",
+      "Return chicken add sweetcorn and cook HIGH 30–45 minutes until corn and chicken are piping hot and chicken reaches 75°C."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Lemon Herb Chicken",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 330,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "boneless chicken thighs"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "300ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "oregano"
+      }
+    ],
+    "steps": [
+      "Place chicken in cooker with stock crushed garlic lemon zest and oregano.",
+      "Cook LOW for 5½ hours until chicken reaches 75°C.",
+      "Add a squeeze of lemon juice just before serving."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Chicken and Chickpea Stew",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "550g",
+        "item": "chicken thighs"
+      },
+      {
+        "qty": "1 tin",
+        "item": "chickpeas drained"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cumin"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Put chicken drained chickpeas chopped onion tomatoes and spices in cooker.",
+      "Cook LOW for 6 hours until chicken reaches 75°C.",
+      "Stir well and serve with rice."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Chicken Fajita Filling",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "chicken breast"
+      },
+      {
+        "qty": "2",
+        "item": "peppers"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "200g",
+        "item": "passata"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "fajita seasoning"
+      }
+    ],
+    "steps": [
+      "Slice peppers and onion and place in cooker with chicken passata and seasoning.",
+      "Cook LOW for about 5 hours checking chicken reaches at least 75°C and is not overcooked.",
+      "Shred chicken and serve in tortillas."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Chicken and Mushroom Stew",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "chicken thighs"
+      },
+      {
+        "qty": "250g",
+        "item": "mushrooms"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "mustard"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "thyme"
+      }
+    ],
+    "steps": [
+      "Place chicken chopped mushrooms onion stock mustard and thyme in cooker.",
+      "Cook LOW for 6 hours until chicken reaches 75°C.",
+      "Taste and season before serving."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Chicken and White Bean Soup",
+    "category": "Chicken",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "500g",
+        "item": "chicken thighs"
+      },
+      {
+        "qty": "2 tins",
+        "item": "cannellini beans drained"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "celery sticks"
+      },
+      {
+        "qty": "900ml",
+        "item": "chicken stock"
+      }
+    ],
+    "steps": [
+      "Put chicken carrots celery and stock in cooker.",
+      "Cook LOW for 5 hours then shred chicken.",
+      "Add drained canned beans and cook HIGH 30–45 minutes until everything is piping hot and chicken reaches 75°C."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Honey Soy Chicken",
+    "category": "Chicken",
+    "servings": 4,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "boneless chicken thighs"
+      },
+      {
+        "qty": "3 tbsp",
+        "item": "reduced-salt soy sauce"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "honey"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "100ml",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Mix soy sauce honey crushed garlic and water in cooker and add chicken.",
+      "Cook LOW for 5 hours until chicken reaches 75°C.",
+      "Remove chicken and reduce sauce in a saucepan if a thicker glaze is wanted."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "chicken"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Lamb and Rosemary Stew",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "diced lamb shoulder"
+      },
+      {
+        "qty": "3",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "500ml",
+        "item": "lamb stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "rosemary"
+      }
+    ],
+    "steps": [
+      "Brown lamb in a frying pan then transfer to cooker.",
+      "Add chopped vegetables stock and rosemary.",
+      "Cook LOW for 8 hours until lamb and vegetables are tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Lamb and Chickpea Tagine",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "diced lamb shoulder"
+      },
+      {
+        "qty": "1 tin",
+        "item": "chickpeas drained"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cumin"
+      }
+    ],
+    "steps": [
+      "Brown lamb then add to cooker with onion tomatoes and spices.",
+      "Cook LOW for 7 hours then add drained canned chickpeas.",
+      "Cook a further hour until lamb tender and chickpeas piping hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Pulled Pork Shoulder",
+    "category": "Lamb & Pork",
+    "servings": 8,
+    "prep": 20,
+    "cook": 540,
+    "ingredients": [
+      {
+        "qty": "1.2kg",
+        "item": "boneless pork shoulder"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "200ml",
+        "item": "apple juice"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Remove excess fat and rub pork with paprika and garlic powder.",
+      "Place over sliced onion and add apple juice.",
+      "Cook LOW for 9 hours until pork is fall-apart tender and thoroughly cooked then shred."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Pork and Apple Casserole",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "650g",
+        "item": "diced pork shoulder"
+      },
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "350ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried sage"
+      }
+    ],
+    "steps": [
+      "Brown pork then transfer to cooker with sliced onion and stock.",
+      "Cook LOW for 6 hours then add chopped apples and sage.",
+      "Cook 1 hour more until pork is tender and thoroughly cooked."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Sausage and Bean Stew",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "6",
+        "item": "pork sausages"
+      },
+      {
+        "qty": "2 tins",
+        "item": "cannellini beans drained"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "carrot"
+      }
+    ],
+    "steps": [
+      "Brown sausages well in a frying pan then transfer to cooker.",
+      "Add vegetables tomatoes and drained canned beans.",
+      "Cook LOW for 6 hours until sausages reach 75°C in centre."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Pork and Sweet Potato Stew",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "diced pork shoulder"
+      },
+      {
+        "qty": "2",
+        "item": "sweet potatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "250ml",
+        "item": "stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Brown pork and transfer to cooker.",
+      "Add cubed sweet potato onion tomatoes stock and paprika.",
+      "Cook LOW for 7 hours until pork is tender and fully cooked."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Lamb and Lentil Curry",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "550g",
+        "item": "diced lamb shoulder"
+      },
+      {
+        "qty": "150g",
+        "item": "red lentils"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400g",
+        "item": "tin chopped tomatoes"
+      },
+      {
+        "qty": "400ml",
+        "item": "stock"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "curry paste"
+      }
+    ],
+    "steps": [
+      "Brown lamb and add to cooker with onion tomatoes stock and curry paste.",
+      "Add rinsed lentils and stir.",
+      "Cook LOW for 8 hours until lamb and lentils are tender adding liquid if needed."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Pork and Mushroom Ragout",
+    "category": "Lamb & Pork",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "diced pork shoulder"
+      },
+      {
+        "qty": "250g",
+        "item": "mushrooms"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "400ml",
+        "item": "chicken stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "thyme"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "cornflour"
+      }
+    ],
+    "steps": [
+      "Brown pork and onion then transfer with mushrooms stock and thyme.",
+      "Cook LOW for 7 hours until pork is tender and cooked through.",
+      "Thicken with cornflour slurry on HIGH 15 minutes."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "lamb & pork"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Vegetable Lentil Stew",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "200g",
+        "item": "green lentils"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "celery sticks"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "500ml",
+        "item": "vegetable stock"
+      }
+    ],
+    "steps": [
+      "Rinse lentils and place with diced vegetables tomatoes and stock in cooker.",
+      "Cook LOW for 6 hours until lentils are completely tender.",
+      "Season and serve with crusty bread."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Sweet Potato and Chickpea Curry",
+    "category": "Vegetarian",
+    "servings": 4,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "sweet potatoes"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chickpeas drained"
+      },
+      {
+        "qty": "400ml",
+        "item": "coconut milk"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "mild curry paste"
+      }
+    ],
+    "steps": [
+      "Put cubed sweet potatoes onion coconut milk and curry paste in cooker.",
+      "Cook LOW for 5 hours until sweet potatoes are tender.",
+      "Stir in drained canned chickpeas and cook a further hour until piping hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Three Bean Chilli",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "1 tin",
+        "item": "kidney beans drained"
+      },
+      {
+        "qty": "1 tin",
+        "item": "black beans drained"
+      },
+      {
+        "qty": "1 tin",
+        "item": "cannellini beans drained"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "pepper"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "cumin"
+      }
+    ],
+    "steps": [
+      "Use commercially canned beans only and drain and rinse them.",
+      "Combine beans tomatoes diced onion pepper and cumin in cooker.",
+      "Cook LOW for 6 hours until vegetables are tender and chilli is piping hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Butternut Squash Soup",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "1 medium",
+        "item": "butternut squash"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "900ml",
+        "item": "vegetable stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "ground ginger"
+      }
+    ],
+    "steps": [
+      "Peel and cube squash and carrots and chop onion.",
+      "Add to cooker with stock and ginger and cook LOW for 6 hours.",
+      "Blend carefully until smooth and adjust seasoning."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Carrot and Red Lentil Soup",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "carrots"
+      },
+      {
+        "qty": "180g",
+        "item": "red lentils"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 litre",
+        "item": "vegetable stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cumin"
+      }
+    ],
+    "steps": [
+      "Rinse lentils and chop carrots and onion.",
+      "Place in cooker with stock and cumin.",
+      "Cook LOW for 5 hours until lentils and carrots are soft then blend."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Mushroom and Barley Stew",
+    "category": "Vegetarian",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "mushrooms"
+      },
+      {
+        "qty": "150g",
+        "item": "pearl barley"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "800ml",
+        "item": "vegetable stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "thyme"
+      }
+    ],
+    "steps": [
+      "Rinse pearl barley and chop vegetables.",
+      "Add to cooker with stock and thyme.",
+      "Cook LOW for 7 hours until barley is tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Vegetable Ratatouille",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "aubergine"
+      },
+      {
+        "qty": "2",
+        "item": "courgettes"
+      },
+      {
+        "qty": "2",
+        "item": "peppers"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "oregano"
+      }
+    ],
+    "steps": [
+      "Dice all vegetables into similar pieces.",
+      "Put in cooker with tomatoes and oregano and stir.",
+      "Cook LOW for 5 hours until vegetables are soft but not mushy."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Spinach and Lentil Dahl",
+    "category": "Vegetarian",
+    "servings": 4,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "220g",
+        "item": "red lentils"
+      },
+      {
+        "qty": "150g",
+        "item": "frozen spinach"
+      },
+      {
+        "qty": "400ml",
+        "item": "coconut milk"
+      },
+      {
+        "qty": "400ml",
+        "item": "water"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "turmeric"
+      }
+    ],
+    "steps": [
+      "Rinse lentils and combine with onion turmeric coconut milk and water in cooker.",
+      "Cook LOW for 4 hours until lentils are soft.",
+      "Add frozen spinach and cook HIGH 30–60 minutes until fully hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Jacket Potatoes",
+    "category": "Vegetarian",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "4 medium",
+        "item": "baking potatoes"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1",
+        "item": "pinch salt"
+      }
+    ],
+    "steps": [
+      "Scrub and thoroughly dry potatoes then prick skins.",
+      "Rub lightly with oil and salt and place directly in dry cooker.",
+      "Cover and cook HIGH for 3–4 hours or LOW for 6–7 hours until soft in centre and finish briefly in oven if crisp skins wanted."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Vegetarian Pasta Sauce",
+    "category": "Vegetarian",
+    "servings": 6,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "1",
+        "item": "courgette"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "basil"
+      }
+    ],
+    "steps": [
+      "Finely chop vegetables and put in cooker with tomatoes garlic and basil.",
+      "Cook LOW for 5 hours until vegetables are soft.",
+      "Blend if desired and serve over freshly cooked pasta."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Slow Cooker Chicken Stock",
+    "category": "Soups & Sides",
+    "servings": 8,
+    "prep": 20,
+    "cook": 480,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "cooked chicken carcass"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "celery sticks"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "bay leaf"
+      },
+      {
+        "qty": "1.5 litres",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Place carcass and chopped vegetables in cooker and cover with water.",
+      "Cook LOW for 8 hours ensuring liquid stays hot and follow appliance guidance.",
+      "Strain promptly cool rapidly refrigerate and use within safe storage guidance."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Vegetable Stock",
+    "category": "Soups & Sides",
+    "servings": 8,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "2",
+        "item": "celery sticks"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "leek"
+      },
+      {
+        "qty": "1",
+        "item": "bay leaf"
+      },
+      {
+        "qty": "1.5 litres",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Wash and roughly chop vegetables and put in cooker with bay leaf and water.",
+      "Cook LOW for 6 hours.",
+      "Strain promptly cool quickly and refrigerate or freeze."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Creamy Mashed Potatoes",
+    "category": "Soups & Sides",
+    "servings": 6,
+    "prep": 20,
+    "cook": 240,
+    "ingredients": [
+      {
+        "qty": "1kg",
+        "item": "floury potatoes"
+      },
+      {
+        "qty": "100ml",
+        "item": "milk"
+      },
+      {
+        "qty": "50g",
+        "item": "butter"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Peel and cut potatoes into small even chunks and put in cooker.",
+      "Add 150ml water cover and cook HIGH for 3–4 hours until completely tender.",
+      "Drain excess liquid then mash with warmed milk butter and salt."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Braised Red Cabbage",
+    "category": "Soups & Sides",
+    "servings": 6,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "1 small",
+        "item": "red cabbage"
+      },
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "3 tbsp",
+        "item": "cider vinegar"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "brown sugar"
+      },
+      {
+        "qty": "100ml",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Finely shred cabbage and slice apples and onion.",
+      "Combine with vinegar sugar and water in cooker.",
+      "Cook LOW for 5 hours until cabbage is soft stirring once if possible."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Slow Cooker Baked Beans",
+    "category": "Soups & Sides",
+    "servings": 6,
+    "prep": 20,
+    "cook": 360,
+    "ingredients": [
+      {
+        "qty": "3 tins",
+        "item": "haricot beans drained"
+      },
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "tomato puree"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "brown sugar"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      }
+    ],
+    "steps": [
+      "Use drained commercially canned haricot beans.",
+      "Combine with chopped onion tomatoes puree sugar and paprika.",
+      "Cook LOW for 6 hours until sauce is thick and hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Apple Cinnamon Porridge",
+    "category": "Breakfast & Desserts",
+    "servings": 4,
+    "prep": 20,
+    "cook": 420,
+    "ingredients": [
+      {
+        "qty": "200g",
+        "item": "steel-cut oats"
+      },
+      {
+        "qty": "900ml",
+        "item": "milk"
+      },
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "brown sugar"
+      }
+    ],
+    "steps": [
+      "Grease cooker lightly and add steel-cut oats milk chopped apples cinnamon and sugar.",
+      "Cook LOW for 6–7 hours stirring if possible and checking liquid level.",
+      "Serve hot and refrigerate leftovers promptly."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Slow Cooker Rice Pudding",
+    "category": "Breakfast & Desserts",
+    "servings": 6,
+    "prep": 20,
+    "cook": 180,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "pudding rice"
+      },
+      {
+        "qty": "900ml",
+        "item": "whole milk"
+      },
+      {
+        "qty": "50g",
+        "item": "caster sugar"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "vanilla extract"
+      }
+    ],
+    "steps": [
+      "Grease cooker bowl and stir in rice milk sugar and vanilla.",
+      "Cook HIGH for about 2½–3 hours stirring occasionally until rice is soft and creamy.",
+      "Serve hot and cool leftovers quickly."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Baked Apples with Raisins",
+    "category": "Breakfast & Desserts",
+    "servings": 4,
+    "prep": 20,
+    "cook": 180,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "eating apples"
+      },
+      {
+        "qty": "50g",
+        "item": "raisins"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "brown sugar"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "100ml",
+        "item": "apple juice"
+      }
+    ],
+    "steps": [
+      "Core apples without cutting through bases and stand in cooker.",
+      "Mix raisins sugar and cinnamon and fill apple centres then pour juice around.",
+      "Cook LOW for about 3 hours until apples are tender."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Poached Pears",
+    "category": "Breakfast & Desserts",
+    "servings": 4,
+    "prep": 20,
+    "cook": 180,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "firm pears"
+      },
+      {
+        "qty": "400ml",
+        "item": "apple juice"
+      },
+      {
+        "qty": "1",
+        "item": "cinnamon stick"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "honey"
+      }
+    ],
+    "steps": [
+      "Peel pears and place in cooker with apple juice cinnamon and honey.",
+      "Cook LOW for about 3 hours until pears are tender.",
+      "Remove pears and reduce poaching liquid in saucepan if desired."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Chocolate Bread Pudding",
+    "category": "Breakfast & Desserts",
+    "servings": 6,
+    "prep": 20,
+    "cook": 150,
+    "ingredients": [
+      {
+        "qty": "250g",
+        "item": "day-old bread"
+      },
+      {
+        "qty": "500ml",
+        "item": "milk"
+      },
+      {
+        "qty": "3",
+        "item": "eggs"
+      },
+      {
+        "qty": "60g",
+        "item": "caster sugar"
+      },
+      {
+        "qty": "80g",
+        "item": "chocolate chips"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "vanilla extract"
+      }
+    ],
+    "steps": [
+      "Grease cooker and add cubed bread and chocolate chips.",
+      "Whisk milk eggs sugar and vanilla then pour over bread and rest 15 minutes.",
+      "Cook HIGH 2–2½ hours until custard is fully set and reaches 75°C."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Apple and Berry Compote",
+    "category": "Breakfast & Desserts",
+    "servings": 6,
+    "prep": 20,
+    "cook": 180,
+    "ingredients": [
+      {
+        "qty": "5",
+        "item": "apples"
+      },
+      {
+        "qty": "250g",
+        "item": "frozen mixed berries"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "caster sugar"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "50ml",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Peel core and chop apples then add with berries sugar cinnamon and water.",
+      "Cook LOW for about 3 hours until apples are soft and berries piping hot.",
+      "Stir and cool promptly if storing."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "breakfast & desserts"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Slow Cooker Tomato Soup",
+    "category": "Soups & Sides",
+    "servings": 6,
+    "prep": 20,
+    "cook": 300,
+    "ingredients": [
+      {
+        "qty": "2 tins",
+        "item": "chopped tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "2",
+        "item": "carrots"
+      },
+      {
+        "qty": "700ml",
+        "item": "vegetable stock"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried basil"
+      }
+    ],
+    "steps": [
+      "Chop onion and carrots and add to cooker with tomatoes stock and basil.",
+      "Cook LOW for 5 hours until vegetables are completely soft.",
+      "Blend carefully until smooth and serve hot."
+    ],
+    "notes": "Times are estimates for LOW unless a step states HIGH. Slow cooker models vary. Do not cook meat from frozen. Use a food thermometer to confirm poultry and reheated dishes reach at least 75°C; check all meat is fully cooked. Never put dry red kidney beans directly in a slow cooker.",
+    "tags": [
+      "slow cooker",
+      "soups & sides"
+    ]
+  }
+]
